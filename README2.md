@@ -1,4 +1,4 @@
-echo "# Teste_e_commit" >> README.md
+# AAAAAAAAAAAAAecho "# Teste_e_commit" >> README.md
 git init
 git add README.md
 git commit -m "first commit"
